@@ -24,7 +24,7 @@ Please share them some love on their [GitHub](https://github.com/zychen-ustc/PSD
 - Pytorch 1.10.1+cu113
 
 ## Downloads
-Below are download links to the datasets, image outputs, pre-trained models respectively since they can't fit in this repository. Simply paste the folder into the same directory as the code and it should work as intended.
+Below are download links to the datasets, image outputs, pre-trained models respectively since they can't fit in this repository. Simply paste the files into their respective folders and it should work as intended.
 <br>
 Folder Name|File size|Download
 :-:|:-:|:-:
@@ -38,7 +38,7 @@ Notebook|Description
 AECRNet_train.ipynb|Contains training code for AECR-Net using OTS dataset
 PSD CVPR Testbench.ipynb|Compares all of the model's image results using CVPR dataset
 PSD SOTS Testbench.ipynb|Compares all of the model's image results using SOTS dataset
-PSD Validate.ipynb|Validates all fo the models using SOTS dataset
+PSD Validate.ipynb|Validates all of the models using SOTS dataset
 UNET_train.ipynb|Contains training code for U-Net using OTS dataset
 napi_student_2021.ipynb|Initial practice exercise containing cropping & resizing code of OTS dataset
 
