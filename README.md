@@ -28,9 +28,9 @@ Below are download links to the datasets, image outputs, pre-trained models resp
 <br>
 Folder Name|File size|Download
 :-:|:-:|:-:
-Images|20GB|[Google Drive](https://drive.google.com/)
-Outputs|812MB|[Google Drive](https://drive.google.com/)
-Pre-trained Models|567MB|[Google Drive](https://drive.google.com/)
+Images|20GB|[Google Drive](https://drive.google.com/drive/folders/1bYIErQICTjfKrdFU6usmfrlL-YO_v4Ac?usp=sharing)
+Outputs|812MB|[Google Drive](https://drive.google.com/drive/folders/1eKM09TdwzM-y93TzJKx6m4fH82bIcMJr?usp=sharing)
+Pre-trained Models|567MB|[Google Drive](https://drive.google.com/drive/folders/1yld8_NVdDNE64Tb0i4IALg07cRubGp61?usp=sharing)
 
 ## Notebooks
 Notebook|Description
